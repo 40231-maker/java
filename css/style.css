@@ -1,0 +1,33 @@
+*{ /*resata o css*/
+    margin: 0; /*margem 0*/
+    padding: 0; /*margem de dentro 0*/
+    box-sizing: border-box; /*ajusta o tipo de borda*/
+}
+body{
+    background: #000000; /* cor de fundo*/
+}
+main{   
+    height: 100dvh;   /*altura*/
+    background: #fff; /* cor de fundo*/
+    width: 90%; /*largura*/
+}
+header{
+height: 100px; /*altura*/
+background: rgb(0, 0, 255); /* cor de fundo*/
+width: 90%; /*largura*/
+}
+nav{
+height: 100px; /*altura*/
+background: #ff0000; /* cor de fundo*/
+width: 90%; /*largura*/
+}
+section{
+height: 300px; /*altura*/
+background: #09ff00; /* cor de fundo*/
+width: 90%; /*largura*/
+}
+footer{
+height: 100px; /*altura*/
+background: #ff00c8; /* cor de fundo*/
+width: 90%; /*largura*/
+}
